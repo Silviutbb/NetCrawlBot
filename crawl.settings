@@ -1,0 +1,16 @@
+#--------------------------------
+#NetCrawlBot Settings
+#
+#Number of Threads allowed
+ncb_crawl_threads=1
+ncb_scan_threads=0
+#
+#database server informations
+db_server=localhost
+db_name=ncbtestdb
+db_user=Silviu
+db_pass=lop;'[]1
+#
+#buffer size allowed (items)
+ncb_buffer=1024
+
